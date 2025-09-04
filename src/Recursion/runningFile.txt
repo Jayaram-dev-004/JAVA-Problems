@@ -1,0 +1,15 @@
+//        new PrintOneToN().printOneToN(5);
+
+//        new PrintNToOne().printNToOne(5);
+
+//        new SumOfN().output(5);
+
+//        new FactorialOfN().output(4);
+
+//        List<Integer> l = new ArrayList<>(Arrays.asList(1,2,3,4,5));
+//        new ReverseArray().output(l, 0, l.size()-1);
+
+//        String s = "ramar";
+//        new IsStringPalindrome().output(s, 0, s.length()-1);
+
+        new Fibonacci().output(6);

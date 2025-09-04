@@ -1,0 +1,5 @@
+//        int[] arr = {8,7,6,5,4,3,2};
+//        new BubbleSort().sort(arr);  // O(n2)
+//        new SelectionSort().sort(arr);  // O(n2)
+//        new InsertionSort().sort(arr);
+//        System.out.println(Arrays.toString(arr));

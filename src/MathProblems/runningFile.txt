@@ -1,0 +1,11 @@
+//        CountDigits.countDigits(12345);
+//        ReverseNum.reverseNum(-234);
+//        Palindrome.isPalindrome(434);
+//        GCD.gcd1(20,15);
+//        Armstrong.isArmstrong(153);
+
+//        FactorOperations fac = new Factors();
+//        System.out.println(fac.factorsCount(17));
+
+//        PrimeNum prime = new PrimeNum();
+//        System.out.println(prime.isPrime(17));

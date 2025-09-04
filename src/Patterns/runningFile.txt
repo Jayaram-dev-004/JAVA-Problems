@@ -1,0 +1,18 @@
+        int n = 5;
+//        Pattern0.pattern0(n);
+//        Pattern1.pattern1(n);
+//        Pattern2.pattern2(n);
+//        Pattern3.pattern3(n);
+//        Pattern4.pattern4(n);
+//        Pattern5.pattern5(n);
+//        Pattern6.pattern6(n);
+//        Pattern7.pattern7(n);
+
+//        AlphaPattern1.alphaPattern1(n);
+//        AlphaPattern2.alphaPattern2(n);
+//        AlphaPattern3.alphaPattern3(n);
+//        AlphaPattern4.alphaPattern4(n);
+
+//        NumPattern1.numPattern1(n);
+//        NumPattern2.numPattern2(n);
+        NumPattern3.numPattern3(n);
