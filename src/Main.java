@@ -5,6 +5,9 @@ import Patterns.AlphaPatterns.*;
 import Patterns.StarPatterns.*;
 import Recursion.*;
 import SortingAlgorithm.*;
+import Array.ArrayEasy.*;
+
+import java.util.Arrays;
 
 
 public class Main {

@@ -1,0 +1,9 @@
+//        int ans = new SecondLargest().secLargest(arr);
+//        boolean ans = new IsSortedAndRotated().output(arr);
+//        int ans = new RemoveDuplicate().output(arr);
+//        System.out.println(ans);
+
+//        new RotateArray().output(arr,4,"left");
+//        new Move0sToEnd().output(arr);
+//        System.out.println(Arrays.toString(arr));
+
