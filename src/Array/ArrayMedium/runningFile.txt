@@ -1,0 +1,11 @@
+//        int[] arr = {2,6,5,8,11};
+//        int[] res = new TwoSum().output(arr, 15);
+//        System.out.println(Arrays.toString(res));
+
+//        int[] arr = {2,0,1,2,0,2,1,1,1,0,0,2};
+//        new SortArray0s1s2s().output(arr);
+//        System.out.println(Arrays.toString(arr));
+
+//        int[] arr = {4,4,2,4,3,4,4,3,2,4};
+//        int res = new MajorityElement().output(arr);
+//        System.out.println(res);
