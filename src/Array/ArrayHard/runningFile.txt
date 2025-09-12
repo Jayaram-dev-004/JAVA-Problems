@@ -1,0 +1,25 @@
+//        PascalTriangle res = new PascalTriangle();
+//        System.out.println("Pascal Triangle");
+//        res.printPascalArr(5);
+//        int row = 5;
+//        int col = 3;
+//        long oneElement = res.getOneElement(row,col);
+//        System.out.println("(row,col) => (" +row+","+col+ ") => "+(int)oneElement);
+//        System.out.println("Pascal Row : "+Arrays.toString(res.getRow(row)));
+
+//        int[] arr = {11,33,33,11,33,11,22,22};
+//        System.out.println(new MajorityElementNby3().output(arr));
+
+//        int[] arr = {1, 0, -5};
+//        int res = new LongestSubArrayWithSum0().output(arr);
+//        System.out.println(res);
+
+//        int[] arr = {4, 2, 2, 6, 4};
+//        int res = new NoOfSubArraysWithXorK().output(arr,6);
+//        System.out.println(res);
+
+
+//        int[][] arr = {{1, 3}, {8, 10}, {2, 6}, {15, 18}};
+//        List<List<Integer>> ans = new MergeOverLappingsubIntervals().output(arr);
+//        for(List<Integer> i : ans)
+//            System.out.print("[" +i.get(0)+ "," +i.get(1)+ "] ");

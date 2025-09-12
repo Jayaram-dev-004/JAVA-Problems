@@ -1,3 +1,4 @@
+import Array.ArrayHard.*;
 import Array.ArrayMedium.*;
 import BasicHashing.*;
 import MathProblems.*;
