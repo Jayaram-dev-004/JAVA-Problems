@@ -22,4 +22,13 @@
 //        int[][] arr = {{1, 3}, {8, 10}, {2, 6}, {15, 18}};
 //        List<List<Integer>> ans = new MergeOverLappingsubIntervals().output(arr);
 //        for(List<Integer> i : ans)
-//            System.out.print("[" +i.get(0)+ "," +i.get(1)+ "] ");
+//        System.out.print("[" +i.get(0)+ "," +i.get(1)+ "] ");
+
+//        int[] arr = {1,2,-3,0,-4,-5};
+//        int res = new  MaxProductSubarray().output(arr);
+//        System.out.println(res);
+
+//        int[] arr1 = {1, 4, 8, 10};
+//        int[] arr2 = {2, 3, 9};
+//        new MergeTwoSortedArrays().output(arr1,arr2);
+//        System.out.println(Arrays.toString(arr1)+Arrays.toString(arr2));
