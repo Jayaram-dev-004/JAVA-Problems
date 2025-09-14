@@ -1,0 +1,20 @@
+//        int[] arr = {0,11,22,33,44,55,66,77,88,99};
+//        int res = new BinarySearch().bs(arr,0);
+//        System.out.println(res);
+
+//        int[] arr = {1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 4};
+//        int res = new LowerBound().output(arr, 0);
+//        System.out.println(res);
+
+//        int[] arr = {1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 4};
+//        int res = new UpperBond().output(arr, 0);
+//        System.out.println(res);
+
+//        int[] arr = {3,5,8,15,19};
+//        int res = new SearchIndex().output(arr, 8);
+//        System.out.println(res);
+
+//        int[] arr = {3,5,8,15,19};
+//        int[] res = new CeilAndFloor().output(arr,2);
+//        System.out.println(Arrays.toString(res));
+
